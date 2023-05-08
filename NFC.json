@@ -1,0 +1,12 @@
+{
+  "extensionName": "Lettore NFC",
+  "extensionPort": 9001,
+  "blockSpecs": [
+    {
+      "opcode": "nfc_content",
+      "text": "contenuto del tag NFC",
+      "blockType": "reporter",
+      "arguments": {}
+    }
+  ]
+}
